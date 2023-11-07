@@ -12,6 +12,9 @@ function App() {
 
         {/* Ruta historial */}
         <Route path="/historial" element={<Historial />} />
+
+        {/* Ruta página no encontrada */}
+        <Route path="/*" element={<h1>Page Not Found</h1>} />
       </Routes>
     </BrowserRouter>
   );
