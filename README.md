@@ -13,7 +13,7 @@ Proyecto final T.P. 3, de React: Un cotizador de seguros de hogar que permite ca
 * Interfaz de usuario con validaciones.
 * Historial de cotizaciones persistente.
 * Utilización de React y React Router.
-* Datos de cotización desde una API remota o archivo JSON.
+* Datos de cotización desde archivo JSON.
 
 **Tecnologías Utilizadas**
 * React
