@@ -1,3 +1,30 @@
+## **Cotizador de Seguros de Hogar** ##
+
+## **Aviso importante para la corrección** ##
+Espero que funcione correctamente, y sin errores. 
+
+Gracias a la amabilidad de mis compañeros, ayuda brindada por un profesor de otra comisión, y un poco de IA para arreglar errores, creo que pude realizar el TP lo mejor que pude. El datos.json debería estar en otra carpeta, pero por alguna razón no me reconocía la ruta, así que tuve que ponerlo en la carpeta "components".
+
+**Descripción**
+
+Proyecto final T.P. 3, de React: Un cotizador de seguros de hogar que permite calcular el costo del seguro en base a varios factores. Del curso de FrontEnd JavaScript, de Argentina Programa 4.0, brindado por UNTREF.
+
+**Características**
+* Interfaz de usuario con validaciones.
+* Historial de cotizaciones persistente.
+* Utilización de React y React Router.
+* Datos de cotización desde una API remota o archivo JSON.
+
+**Tecnologías Utilizadas**
+* React
+* React Router
+* JavaScript
+* HTML
+* CSS Vanilla
+
+**Autor**
+Melina Vargas
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
